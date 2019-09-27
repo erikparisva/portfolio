@@ -1,0 +1,9 @@
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+:root {
+    --primary-dark-color: #23374d;
+    --primary-color: #1089ff;
+    --offlight-color: #e5e5e5;
+    --light-color: #eeeeee;
+}
